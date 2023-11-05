@@ -1,0 +1,449 @@
+@import url('https://fonts.cdnfonts.com/css/dm-serif-display');
+
+
+
+.banner-ben {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* Set the section's height to 100% of the viewport height */
+    text-align: left;
+    /* Align text to the left */
+    color: #fff;
+    /* Text color for readability */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.banner-more-time {
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+    /* Align text to the left */
+    color: #fff;
+    /* Text color for readability */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.banner-heading-north {
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+    /* Align text to the left */
+    color: rgb(110, 182, 220);
+    /* Text color for readability */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+
+.banner-content-intro {
+    background-image: url('../img/content-banner.webp');
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+    /* Align text to the left */
+    color: #fff;
+    /* Text color for readability */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.banner-content-intro-2 {
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+    /* Align text to the left */
+    color: #fff;
+    /* Text color for readability */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.banner-ben-2 {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* Set the section's height to 100% of the viewport height */
+    text-align: left;
+    /* Align text to the left */
+    color: #fff;
+    /* Text color for readability */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.ben-2-h1 {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+
+    padding: 0px;
+    margin: 0px 0px 0.55em;
+    cursor: text;
+    position: relative;
+    font-size: 2.625rem;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.05em;
+    letter-spacing: 0em;
+    color: rgb(255, 255, 255);
+}
+
+.banner-content {
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 80%;
+    /* Adjust the width of the content container as needed */
+}
+
+.banner .index-h1 {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+    font-family: 'DM Serif Display';
+    padding: 0px;
+    cursor: text;
+    position: relative;
+    font-size: 9.25rem;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.05em;
+    letter-spacing: 0.02em;
+    color: rgb(255, 255, 255);
+    margin: 0px 0px 0.344595em;
+}
+
+.banner-ben .ben-h1 {
+    font-family: 'DM Serif Display';
+    position: relative;
+    font-size: 6.875rem;
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+.ben-h1 {
+    font-family: 'DM Serif Display';
+    position: relative;
+    font-size: 6.875rem;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.ben-h1-tempo {
+    font-family: 'DM Serif Display';
+    position: relative;
+    font-size: 4rem;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.banner h2 {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+    padding: 0px;
+    cursor: text;
+    font-family: 'DM Serif Display';
+    position: relative;
+    font-size: 1.25rem;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.05em;
+    letter-spacing: 0.02em;
+    color: rgb(255, 255, 255);
+    margin: 0px 0px 0.344595em;
+}
+
+.h2-icon {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+    padding: 0px;
+    cursor: text;
+    position: relative;
+    font-size: 1.25rem;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.05em;
+    letter-spacing: 0.02em;
+    color: rgb(255, 255, 255);
+    margin: 0px 0px 0.344595em;
+}
+
+.banner .p {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+    padding: 0px;
+    cursor: text;
+    position: relative;
+    font-size: 1.4375rem;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.4em;
+    letter-spacing: 0em;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+.bg-dark2 {
+    display: block;
+    position: fixed;
+    z-index: 2;
+    left: 0px;
+    margin: 0px;
+    line-height: 2em;
+    white-space: normal;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: rgb(255, 255, 255);
+    height: 57px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.navbar-dark2 {
+    color: white;
+
+}
+
+.nav-side {
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: row;
+    margin: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    justify-self: flex-start;
+    background-color: inherit;
+    font-size: 1rem;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0em;
+    line-height: 2em;
+    overflow: hidden;
+    color: inherit;
+    justify-content: normal;
+}
+
+.mt-11 {
+    margin-top: 10rem;
+}
+
+.mt-11-2 {
+    margin-top: 10rem;
+}
+
+@media screen and (max-width: 768px) {
+    .index-h1 {
+        font-size: 2.5rem !important;
+    }
+
+    .ben-2-h1 {
+        font-size: 1.5rem !important;
+    }
+
+    .ben-h1 {
+        font-size: 1.5rem !important;
+    }
+
+    .mt-11-2 {
+        margin-top: 0rem;
+    }
+
+    .banner .p {
+        font-size: 1rem;
+    }
+
+    .banner .p2 {
+        font-size: 0.8rem;
+    }
+
+    .mt-5rem {
+        margin-top: 0rem !important;
+    }
+
+    .ben-h1-tempo {
+        position: relative;
+        font-size: 2rem;
+        font-weight: 900;
+        font-style: normal;
+    }
+}
+
+.bod-none {
+    border: none;
+}
+
+.card-shadow {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.active-2 {
+    border-bottom: 3px solid #565656;
+}
+
+.mt-5rem {
+    margin-top: 5rem;
+}
+
+.back-icon {
+    -webkit-box-align: center;
+    align-items: center;
+    opacity: 1;
+    border-radius: 40px;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: rgb(255, 255, 255);
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.image-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Black background with 50% opacity */
+    opacity: 1;
+    /* Initially set to fully transparent */
+    transition: opacity 0.3s;
+    /* Smooth transition effect */
+}
+
+.image-container:hover::before {
+    opacity: 0;
+    /* On hover, set opacity to 1 (fully visible) to remove the black background */
+}
+
+.image-container a {
+    display: block;
+}
+
+.image-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-weight: 600;
+    text-shadow: #000 1px 0 10px;
+    color: #fff;
+    /* Text color */
+    padding: 10px;
+    /* Adjust padding as needed */
+}
+
+.bold-ben {
+    color: black;
+    font-weight: 600;
+}
+
+.ben-blue {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+    padding: 0px;
+    margin: 0px 0px 71px;
+    cursor: text;
+    position: relative;
+    font-size: 2.125rem;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.05em;
+    letter-spacing: 0em;
+    color: rgb(101, 118, 152);
+}
+
+.ben-blue-2 {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+    padding: 0px;
+    cursor: text;
+    position: relative;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.4em;
+    letter-spacing: 0em;
+    color: rgb(101, 118, 152);
+    margin: 0px 0px 9px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.con-intro-h1 {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+    padding: 0px;
+    margin: 0px 0px 28px;
+    cursor: text;
+    position: relative;
+    font-size: 3.125rem;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.05em;
+    letter-spacing: 0em;
+    color: rgb(52, 51, 52);
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.black {
+    color: #000;
+}
+
+.p-underline {
+    text-decoration: underline;
+}
+
+.mt-20 {
+    margin-top: 22rem;
+}
+
+.footer {
+    background-color: #1a1919;
+}
+
+.white {
+    color: #fff;
+}
+
+.more-time-h {
+    overflow-wrap: break-word;
+    hyphens: manual;
+    white-space: pre-wrap;
+    padding: 0px;
+    margin: 0px 0px 33px;
+    cursor: text;
+    position: relative;
+    font-size: 1.5625rem;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.15em;
+    letter-spacing: 0em;
+    color: rgb(101, 196, 219);
+}
+
+.card-2 {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: none;
+}
